@@ -6,6 +6,10 @@ I'm Rhett, a second year electrical and computer engineering student at the Univ
 
 Interested in embedded systems and RF systems and enjoy building my own projects focused around these two fields.
 
+### Completed Projects
+* [The Big One](https://github.com/TheZ0/The-Big-One/tree/master) - 1kJ projectile accelerator
+* [Accy](https://github.com/TheZ0/Accy) - Accelerometer and gyroscope module
+
 ### Currently working on
 * [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443-3 standard
 * [Altium Master Library](https://github.com/TheZ0/Altium-Master-Library) - SchLib and PcbLib libraries for Altium designer for components I commonly use
