@@ -11,5 +11,5 @@ Interested in embedded systems and RF systems and enjoy building my own projects
 * [Accy](https://github.com/TheZ0/Accy) - Compact accelerometer module
 
 ### Currently working on
-* [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443-3 standard
+* [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
 * [Altium Master Library](https://github.com/TheZ0/Altium-Master-Library) - SchLib and PcbLib libraries for Altium designer for components I commonly use
