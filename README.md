@@ -2,7 +2,7 @@
 
 ### Greetings
 
-I'm Rhett, an electrical and computer engineering student at the Univeristy of Queensland.
+I'm Rhett, an electrical engineering student majoring in computer engineering at the Univeristy of Queensland.
 
 Interested in embedded systems and RF systems and enjoy building my own projects focused around these two fields.
 
