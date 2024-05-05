@@ -9,6 +9,7 @@ Interested in embedded and RF systems and enjoy building my own projects focused
 ### Completed Projects
 * [The Big One](https://github.com/TheZ0/The-Big-One/tree/master) - 1kJ projectile accelerator
 * [Accy](https://github.com/TheZ0/Accy) - Compact accelerometer module
+* [UFV](https://github.com/TheZ0/UFV) - Unmanned Firefighting Vehicle
 
 ### Currently working on
 * [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
