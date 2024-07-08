@@ -13,5 +13,5 @@ Interested in embedded and RF systems and enjoy building my own projects focused
 * [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
 
 ### Currently working on
-* [MBED]() - Single board computer capable of running the Linux kernel
+* [MBED](https://github.com/TheZ0/MBED) - Single board computer capable of running the Linux kernel
 * [Altium Master Library](https://github.com/TheZ0/Altium-Master-Library) - SchLib and PcbLib libraries for Altium designer for components I commonly use
