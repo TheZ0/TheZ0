@@ -1,5 +1,3 @@
-# I build stuff
-
 # Projects
 ## [The Big One](https://github.com/TheZ0/The-Big-One/tree/master) - 1kJ projectile accelerator
 ![image](https://github.com/user-attachments/assets/a2a5793f-34da-4d00-b46b-1514f84bb48d)
